@@ -11,7 +11,6 @@ int main(void)
     while (n < 1);
 
 
-
 //  Instead of the do while loop from earlier, we can use a while loop:
 //     while (true)
 // {
